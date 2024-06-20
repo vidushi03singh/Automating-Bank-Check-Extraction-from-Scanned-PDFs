@@ -1,0 +1,26 @@
+Total pages: 1
+
+Processing page: 1
+Text found on page:
+Python - A Versatile Programming Language
+Python is a versatile and dynamically-typed programming language renowned for its simplicity
+and readability. Guido van Rossum created Python in the late 1980s, envisioning a language
+that emphasizes code readability and encourages a clean and concise syntax. Python's
+readability is one of its greatest strengths, making it an ideal choice for beginners and
+experienced developers alike. Its syntax is straightforward and easy to understand, often
+resembling pseudo-code, which accelerates the development process and reduces the time
+spent debugging. Python's extensive standard library provides modules and functions for a wide
+range of tasks, from web development and data analysis to artificial intelligence and scientific
+computing, making it a powerful tool for various domains.
+Furthermore, Python's versatility extends to its support for multiple programming paradigms,
+including procedural, object-oriented, and functional programming. This flexibility allows
+developers to choose the best approach for solving problems, leading to efficient and
+maintainable codebases. Python's interpreted nature enables rapid prototyping and iterative
+development, facilitating a smooth workflow and fostering collaboration among team members.
+Its open-source ecosystem encourages community involvement, resulting in a vast collection of
+third-party libraries and frameworks that enhance its capabilities further. With its user-friendly
+syntax, extensive library support, and flexibility, Python continues to be a popular choice for
+projects ranging from small scripts to large-scale applications.
+
+Found 1 images on page
+Saved image: task2-output\page_1_image_1.png
